@@ -16,8 +16,7 @@ Assignment: Lab 3
 ## Question 3
 ![q1](q3.png)
 
-## Challenge Ques
-tion
+## Challenge Question
 ![q1](q4.png)
 
 ## Script Source code:
